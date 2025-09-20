@@ -1,6 +1,16 @@
-README.md
-
 # Premier League Predictor — Jupyter Project
+
+- [Premier League Predictor — Jupyter Project](#premier-league-predictor--jupyter-project)
+  - [Features](#features)
+  - [Getting Started](#getting-started)
+    - [1. Clone the repository](#1-clone-the-repository)
+    - [2. Create a virtual environment and install dependencies](#2-create-a-virtual-environment-and-install-dependencies)
+    - [3. Download Data](#3-download-data)
+    - [4. API Setup (Optional for live/future matches)](#4-api-setup-optional-for-livefuture-matches)
+    - [5. Run Notebook](#5-run-notebook)
+  - [File Overview](#file-overview)
+  - [Useful Links](#useful-links)
+  - [Contributing](#contributing)
 
 A starter project to predict **English Premier League (EPL) match results** using Python and machine learning. This project uses the [football-data.org API](https://www.football-data.org/) for live/future fixtures.
 
