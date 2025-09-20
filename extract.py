@@ -1,8 +1,12 @@
+import os
 import requests
 import pandas as pd
 from time import sleep
+from dotenv import load_dotenv
 
-API_KEY = "3a2e04976f2148a9b2222c71f1dff77b"
+load_dotenv()
+API_KEY = os.getenv("API_KEY")
+
 BASE_URL = "https://api.football-data.org/v4"
 COMPETITION = "PL"
 headers = {"X-Auth-Token": API_KEY}
