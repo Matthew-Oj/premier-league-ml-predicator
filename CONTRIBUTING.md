@@ -1,8 +1,8 @@
-# Contributing to Premier League Predictor
+## Contributing
 
 Thank you for your interest in contributing! This project is open-source and welcomes contributions from the community.
 
-## How to Contribute
+### How to Contribute
 
 1. **Fork the repository** to your GitHub account.
 2. **Clone your fork locally**
@@ -27,7 +27,7 @@ git push origin feature-name
 
 ---
 
-## Guidelines
+### Guidelines
 
 - Follow PEP8 code style for Python files.
 - Document new functions or features.
@@ -36,7 +36,7 @@ git push origin feature-name
 
 ---
 
-## Resources
+### Resources
 
 - GitHub Forking Guide: https://docs.github.com/en/get-started/quickstart/fork-a-repo
 - Python PEP8 Guidelines: https://www.python.org/dev/peps/pep-0008/
