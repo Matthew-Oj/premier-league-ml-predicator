@@ -1,5 +1,3 @@
-CONTRIBUTING.md
-
 # Contributing to Premier League Predictor
 
 Thank you for your interest in contributing! This project is open-source and welcomes contributions from the community.
